@@ -4,8 +4,8 @@ html{
 
 .container {
     margin: 10rem;
-    padding: 3grem;
-    border-radius: 4rem;
+    padding: 3rem;
+    border-radius: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
